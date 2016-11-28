@@ -1,4 +1,6 @@
 Porosity-tools
+For more details see: Kulasinski K. and Guyer R, Quantification of Nanopore Networks: Application to Amorphous Polymers, J Phys Chem C, 2016
+
 Python script to quantify the pore network of a Molecular Dynamics system.
 Copyright Karol Kulasinski 2016
 
